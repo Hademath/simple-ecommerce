@@ -1,0 +1,132 @@
+[
+  {
+    "productId": 1637101318088,
+    "productName": "T Shirt",
+    "productVarieties": [
+      {
+        "size": "large",
+        "color": "orange",
+        "quantity": "15",
+        "images": [
+          "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/83/453283/1.jpg?6332",
+          "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/83/453283/2.jpg?6332"
+        ],
+        "price": "2000"
+      },
+      {
+        "size": "medium",
+        "color": "large",
+        "quantity": "35",
+        "images": [
+          "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/86/690064/1.jpg?7852",
+          "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/86/690064/3.jpg?3113"
+        ],
+        "price": "35000"
+      }
+    ],
+    "productDescription": "Men's Vintage Shirt Casual Short Sleeve T-Shirt",
+    "dateUploaded": "1637101318088"
+  },
+  {
+    "productId": 1637101791292,
+    "productName": "Gown",
+    "productVarieties": [
+      {
+        "size": "large",
+        "color": "yellow",
+        "quantity": "23",
+        "images": [
+          "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/33/543583/1.jpg?5421",
+          "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/33/543583/2.jpg?5421"
+        ],
+        "price": "322000"
+      },
+      {
+        "size": "medium",
+        "color": "black",
+        "quantity": "35",
+        "images": [
+          "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/33/543583/3.jpg?5421",
+          "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/33/543583/5.jpg?5421"
+        ],
+        "price": "90000"
+      }
+    ],
+    "productDescription": "Floral Print Party Midi Pencil Dresses - Black",
+    "dateUploaded": "1637101791291"
+  },
+  {
+    "productId": 1637102139819,
+    "productName": "Top and Skirt",
+    "productVarieties": [
+      {
+        "size": "large",
+        "color": "orange",
+        "quantity": "12",
+        "images": [
+          "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/67/049744/1.jpg?0033",
+          "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/67/049744/2.jpg?0033"
+        ],
+        "price": "2900"
+      }
+    ],
+    "productDescription": "Women 2 Piece Bodycon Two Piece Crop Top And Skirt Set Dress",
+    "dateUploaded": "1637102139819"
+  },
+  {
+    "productId": 1637103176886,
+    "productName": "Shoe",
+    "productVarieties": [
+      {
+        "size": "40",
+        "color": "white",
+        "quantity": "23",
+        "images": [
+          "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/93/763176/2.jpg?0757",
+          "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/93/763176/3.jpg?9194"
+        ],
+        "price": "7000"
+      },
+      {
+        "size": "45",
+        "color": "black",
+        "quantity": "35",
+        "images": [
+          "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/93/763176/4.jpg?0757",
+          "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/93/763176/5.jpg?0757"
+        ],
+        "price": "21000"
+      }
+    ],
+    "productDescription": "2021 Mens Casual Classic Shoes Running Sneakers",
+    "dateUploaded": "1637103176885"
+  },
+  {
+    "productId": 1637117501255,
+    "productName": "Shoe",
+    "productVarieties": [
+      {
+        "size": "40",
+        "color": "white",
+        "quantity": "23",
+        "images": [
+          "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/93/763176/2.jpg?0757",
+          "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/93/763176/3.jpg?9194"
+        ],
+        "price": "7000"
+      },
+      {
+        "size": "45",
+        "color": "black",
+        "quantity": "35",
+        "images": [
+          "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/93/763176/4.jpg?0757",
+          "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/93/763176/5.jpg?0757"
+        ],
+        "price": "21000"
+      }
+    ],
+    "productDescription": "2021 Mens Casual Classic Shoes Running Sneakers",
+    "dateUploaded": "1637117501253"
+  }
+]
